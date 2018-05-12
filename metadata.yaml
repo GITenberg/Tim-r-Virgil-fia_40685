@@ -1,0 +1,30 @@
+_repo: Tim-r-Virgil-fia_40685
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Babits, Mihály
+    aliases:
+    - Babits, Mihaly
+    - Babits, Michael
+    birthdate: 1883
+    deathdate: 1941
+    gutenberg_agent_id: '40766'
+    url: http://www.gutenberg.org/2009/agents/40766
+    wikipedia: http://hu.wikipedia.org/wiki/Babits_Mih%C3%A1ly
+description: ''
+gutenberg_issued: '2012-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40685'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction'
+title: Timár Virgil fia
+url: http://www.gutenberg.org/ebooks/40685
